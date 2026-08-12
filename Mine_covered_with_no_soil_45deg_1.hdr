@@ -1,0 +1,12 @@
+ENVI
+samples = 320
+lines = 625
+bands = 168
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bil
+byte order = 0
+wavelength units = nm
+reflectance scale factor = 10000
+label = Mine_covered_with_no_soil_45deg_1
